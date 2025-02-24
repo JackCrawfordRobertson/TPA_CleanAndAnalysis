@@ -1,0 +1,170 @@
+Transaction ID,Date,Amount (£),Payment Method,Merchant Category,Location,Customer Segment,Transaction Status,Sales Channel,Customer Device Type,Promotion/Discount Applied,Time,Transaction Type
+T000001,2023-01-15,245.67,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,12:34,Purchase
+T000002,2023-02-11,98.34,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Seasonal Offer,08:45,Purchase
+T000003,2023-03-22,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,14:22,Purchase
+T000004,2023-04-10,75.89,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,No,16:50,Purchase
+T000005,2023-05-30,320.0,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,10:15,Purchase
+T000006,2023-06-05,150.45,Credit Card,Retail,London,26-35,Completed,Social Media,Mobile,No,18:20,Purchase
+T000007,2023-07-15,210.99,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,First-Time User Discount,11:05,Purchase
+T000008,2023-08-25,450.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Smartwatch,No,13:30,Purchase
+T000009,2023-09-19,85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,09:40,Purchase
+T000010,2023-10-12,295.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Desktop,Seasonal Offer,17:55,Purchase
+T000011,2023-01-18,198.75,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,09:24,Purchase
+T000012,2023-02-21,75.22,Mobile Payment,Food & Beverage,Manchester,18-25,Failed,In-Store,Desktop,Yes,11:10,Purchase
+T000013,2023-03-28,650.0,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,14:45,Purchase
+T000014,2023-04-13,95.89,Debit Card,Entertainment,Glasgow,46-60,Completed,Social Media,Smartwatch,Loyalty Points Redeemed,15:12,Purchase
+T000015,2023-05-27,210.5,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,First-Time User Discount,13:05,Purchase
+T000016,2023-06-07,175.45,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,19:18,Purchase
+T000017,2023-07-18,180.99,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,Yes,12:25,Purchase
+T000018,2023-08-29,350.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Mobile,Seasonal Offer,14:40,Purchase
+T000019,2023-09-22,120.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,No,10:30,Purchase
+T000020,2023-10-19,395.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Smartwatch,Loyalty Points Redeemed,16:45,Purchase
+T000021,2023-01-25,220.5,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,10:30,Purchase
+T000022,2023-02-15,88.2,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Yes,13:40,Purchase
+T000023,2023-03-05,725.3,Digital Wallet,Travel,Birmingham,36-45,Completed,Social Media,Mobile,Seasonal Offer,16:55,Purchase
+T000024,2023-04-18,55.7,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,No,14:20,Purchase
+T000025,2023-05-22,290.15,Bank Transfer,Services,Bristol,60+,Chargeback,Online,Tablet,Loyalty Points Redeemed,09:15,Purchase
+T000026,2023-06-28,145.25,Credit Card,Retail,London,26-35,Completed,Subscription,Mobile,First-Time User Discount,12:10,Purchase
+T000027,2023-07-14,210.6,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,No,15:45,Purchase
+T000028,2023-08-02,470.9,Digital Wallet,Travel,Birmingham,46-60,Refunded,Online,Smartwatch,Yes,18:30,Purchase
+T000029,2023-09-13,95.5,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Seasonal Offer,11:05,Purchase
+T000030,2023-10-17,315.8,Bank Transfer,Services,Bristol,60+,Pending,Social Media,Desktop,No,17:55,Purchase
+T000031,2023-01-09,215.9,Credit Card,Retail,London,26-35,Completed,Subscription,Mobile,Yes,09:25,Purchase
+T000032,2023-02-23,65.5,Mobile Payment,Food & Beverage,Manchester,18-25,Failed,Mobile App,Desktop,Loyalty Points Redeemed,14:20,Purchase
+T000033,2023-03-29,640.3,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,13:45,Purchase
+T000034,2023-04-26,85.95,Debit Card,Entertainment,Glasgow,46-60,Completed,In-Store,Smartwatch,Seasonal Offer,15:32,Purchase
+T000035,2023-05-28,280.4,Bank Transfer,Services,Bristol,60+,Chargeback,Subscription,Tablet,Yes,10:12,Purchase
+T000036,2023-06-22,155.75,Credit Card,Retail,London,26-35,Refunded,Online,Mobile,No,17:25,Purchase
+T000037,2023-07-10,170.6,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,First-Time User Discount,12:15,Purchase
+T000038,2023-08-14,360.25,Digital Wallet,Travel,Birmingham,46-60,Completed,In-Store,Mobile,Seasonal Offer,16:50,Purchase
+T000039,2023-09-27,115.4,Debit Card,Entertainment,Glasgow,18-25,Completed,Online,Mobile,No,09:35,Purchase
+T000040,2023-10-22,405.9,Bank Transfer,Services,Bristol,60+,Failed,Subscription,Smartwatch,Loyalty Points Redeemed,14:45,Purchase
+T000041,2023-01-12,185.2,Credit Card,Retail,London,26-35,Completed,Mobile App,Mobile,No,11:45,Purchase
+T000042,2023-02-09,95.1,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Online,Desktop,Loyalty Points Redeemed,13:20,Purchase
+T000043,2023-03-17,715.55,Digital Wallet,Travel,Birmingham,36-45,Failed,In-Store,Mobile,Yes,12:40,Purchase
+T000044,2023-04-14,65.8,Debit Card,Entertainment,Glasgow,46-60,Chargeback,Social Media,Smartwatch,Seasonal Offer,14:15,Purchase
+T000045,2023-05-19,295.6,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,No,09:10,Purchase
+T000046,2023-06-24,165.3,Credit Card,Retail,London,26-35,Completed,Online,Mobile,First-Time User Discount,10:50,Purchase
+T000047,2023-07-07,220.2,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,Yes,15:35,Purchase
+T000048,2023-08-18,480.4,Digital Wallet,Travel,Birmingham,46-60,Pending,Subscription,Smartwatch,No,17:25,Purchase
+T000049,2023-09-14,105.75,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Seasonal Offer,09:50,Purchase
+T000050,2023-10-20,325.7,Bank Transfer,Services,Bristol,60+,Completed,Online,Desktop,Loyalty Points Redeemed,16:20,Purchase
+T000051,2023-01-11,225.85,Credit Card,Retail,London,26-35,Completed,Social Media,Mobile,No,10:25,Purchase
+T000052,2023-02-19,85.3,Mobile Payment,Food & Beverage,Manchester,18-25,Failed,Mobile App,Desktop,Yes,12:15,Purchase
+T000053,2023-03-21,655.75,Digital Wallet,Travel,Birmingham,36-45,Chargeback,Online,Mobile,Seasonal Offer,14:45,Purchase
+T000054,2023-04-23,75.5,Debit Card,Entertainment,Glasgow,46-60,Refunded,In-Store,Smartwatch,No,13:50,Purchase
+T000055,2023-05-31,250.6,Bank Transfer,Services,Bristol,60+,Completed,Subscription,Tablet,Loyalty Points Redeemed,11:05,Purchase
+T000056,2023-06-20,135.85,Credit Card,Retail,London,26-35,Completed,Online,Mobile,Yes,19:25,Purchase
+T000057,2023-07-22,190.75,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,Seasonal Offer,16:10,Purchase
+T000058,2023-08-26,390.95,Digital Wallet,Travel,Birmingham,46-60,Pending,Social Media,Mobile,No,18:50,Purchase
+T000059,2023-09-28,125.4,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Loyalty Points Redeemed,08:55,Purchase
+T000060,2023-10-29,415.3,Bank Transfer,Services,Bristol,60+,Failed,Subscription,Smartwatch,First-Time User Discount,15:35,Purchase
+T000061,2023-01-22,235.4,Credit Card,Retail,London,26-35,Completed,Online,Mobile,Yes,14:15,Purchase
+T000062,2023-02-14,105.9,Mobile Payment,Food & Beverage,Manchester,18-25,Failed,Mobile App,Desktop,Seasonal Offer,11:20,Purchase
+T000063,2023-03-26,725.85,Digital Wallet,Travel,Birmingham,36-45,Completed,Social Media,Mobile,No,12:35,Purchase
+T000064,2023-04-27,85.95,Debit Card,Entertainment,Glasgow,46-60,Chargeback,In-Store,Smartwatch,Loyalty Points Redeemed,10:50,Purchase
+T000065,2023-05-24,305.8,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,First-Time User Discount,16:05,Purchase
+T000066,2023-06-18,155.2,Credit Card,Retail,London,26-35,Completed,Online,Mobile,Yes,12:30,Purchase
+T000067,2023-07-16,240.3,Mobile Payment,Food & Beverage,Manchester,36-45,Pending,Mobile App,Desktop,No,14:45,Purchase
+T000068,2023-08-23,495.2,Digital Wallet,Travel,Birmingham,46-60,Completed,Social Media,Smartwatch,Seasonal Offer,09:25,Purchase
+T000069,2023-09-24,115.85,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Loyalty Points Redeemed,13:55,Purchase
+T000070,2023-10-21,335.4,Bank Transfer,Services,Bristol,60+,Failed,Subscription,Desktop,Yes,17:15,Purchase
+T000071,2023-01-24,235.95,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,10:35,Purchase
+T000072,2023-02-25,95.85,Mobile Payment,Food & Beverage,Manchester,18-25,Chargeback,Mobile App,Desktop,First-Time User Discount,15:10,Purchase
+T000073,2023-03-30,670.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Social Media,Mobile,Seasonal Offer,13:55,Purchase
+T000074,2023-04-29,85.75,Debit Card,Entertainment,Glasgow,46-60,Completed,In-Store,Smartwatch,No,12:40,Purchase
+T000075,2023-05-26,270.45,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,09:05,Purchase
+T000076,2023-06-15,145.3,Credit Card,Retail,London,26-35,Completed,Online,Mobile,Yes,17:20,Purchase
+T000077,2023-07-28,195.6,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,Seasonal Offer,18:25,Purchase
+T000078,2023-08-22,405.75,Digital Wallet,Travel,Birmingham,46-60,Pending,Social Media,Mobile,No,16:35,Purchase
+T000079,2023-09-25,135.85,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,10:45,Purchase
+T000080,2023-10-27,425.1,Bank Transfer,Services,Bristol,60+,Failed,Subscription,Smartwatch,Loyalty Points Redeemed,13:25,Purchase
+T000081,2023-01-27,245.1,Credit Card,Retail,London,26-35,Completed,Social Media,Mobile,Loyalty Points Redeemed,15:45,Purchase
+T000082,2023-02-28,115.5,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Online,Desktop,No,09:50,Purchase
+T000083,2023-03-31,735.95,Digital Wallet,Travel,Birmingham,36-45,Failed,Mobile App,Mobile,Seasonal Offer,14:20,Purchase
+T000084,2023-04-30,95.25,Debit Card,Entertainment,Glasgow,46-60,Chargeback,In-Store,Smartwatch,Yes,11:15,Purchase
+T000085,2023-05-29,315.6,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,First-Time User Discount,16:25,Purchase
+T000086,2023-06-21,165.4,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,14:40,Purchase
+T000087,2023-07-25,260.2,Mobile Payment,Food & Beverage,Manchester,36-45,Pending,Mobile App,Desktop,Seasonal Offer,12:15,Purchase
+T000088,2023-08-28,505.3,Digital Wallet,Travel,Birmingham,46-60,Completed,Social Media,Smartwatch,Loyalty Points Redeemed,17:30,Purchase
+T000089,2023-09-29,125.9,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,09:35,Purchase
+T000090,2023-10-31,345.7,Bank Transfer,Services,Bristol,60+,Failed,Subscription,Desktop,No,16:45,Purchase
+T000091,2023-01-31,245.75,Credit Card,Retail,London,26-35,Completed,Online,Mobile,Seasonal Offer,11:25,Purchase
+T000092,2023-02-26,105.25,Mobile Payment,Food & Beverage,Manchester,18-25,Chargeback,Mobile App,Desktop,First-Time User Discount,12:30,Purchase
+T000093,2023-03-27,685.85,Digital Wallet,Travel,Birmingham,36-45,Completed,Social Media,Mobile,Yes,13:50,Purchase
+T000094,2023-04-28,95.85,Debit Card,Entertainment,Glasgow,46-60,Completed,In-Store,Smartwatch,No,10:55,Purchase
+T000095,2023-05-30,285.25,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,14:05,Purchase
+T000096,2023-06-29,155.9,Credit Card,Retail,London,26-35,Completed,Online,Mobile,Seasonal Offer,17:50,Purchase
+T000097,2023-07-30,205.1,Mobile Payment,Food & Beverage,Manchester,36-45,Completed,Mobile App,Desktop,No,16:55,Purchase
+T000098,2023-08-30,420.5,Digital Wallet,Travel,Birmingham,46-60,Pending,Social Media,Mobile,Yes,13:45,Purchase
+T000099,2023-09-30,145.2,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Seasonal Offer,11:35,Purchase
+T000101,2023-11-02,245.67,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000102,2023-11-02,-98.34,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Seasonal Offer,,Pending Refund
+T000103,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000108,2023-11-02,450.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Smartwatch,No,,Purchase
+T000109,2023-11-02,85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Purchase
+T000112,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000114,2023-11-02,250.5,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000115,2023-11-02,185.2,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000116,2023-11-02,98.34,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Yes,,Purchase
+T000117,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,,Purchase
+T000118,2023-11-02,0.0,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,Loyalty Points Redeemed,,Failed Transaction
+T000119,2023-11-02,-85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Refund
+T000120,2023-11-02,295.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Tablet,Seasonal Offer,,Purchase
+T000122,2023-11-02,85.3,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000123,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000125,2023-11-02,320.0,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,,Purchase
+T000126,2023-11-02,-200.0,Credit Card,Retail,London,26-35,Completed,Social Media,Mobile,No,,Refund
+T000127,2023-11-02,0.0,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Yes,,Loyalty Redemption
+T000128,2023-11-02,450.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Smartwatch,No,,Purchase
+T000129,2023-11-02,85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Purchase
+T000131,2023-11-02,245.67,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000132,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000134,2023-11-02,250.5,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000135,2023-11-02,185.2,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000137,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,,Purchase
+T000138,2023-11-02,0.0,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,Loyalty Points Redeemed,,Failed Transaction
+T000139,2023-11-02,-85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Refund
+T000140,2023-11-02,295.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Tablet,Seasonal Offer,,Purchase
+T000143,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000145,2023-11-02,-320.0,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,,Refund
+T000147,2023-11-02,0.0,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Yes,,Loyalty Redemption
+T000148,2023-11-02,450.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Smartwatch,No,,Purchase
+T000149,2023-11-02,85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Purchase
+T000151,2023-11-02,245.67,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000154,2023-11-02,250.5,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000155,2023-11-02,185.2,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000157,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,,Purchase
+T000158,2023-11-02,0.0,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,Loyalty Points Redeemed,,Failed Transaction
+T000159,2023-11-02,-85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Refund
+T000160,2023-11-02,295.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Tablet,Seasonal Offer,,Purchase
+T000161,2023-11-02,245.67,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000162,2023-11-02,85.3,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000163,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000164,2023-11-02,-100.0,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,No,,Failed Refund
+T000165,2023-11-02,320.0,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,,Purchase
+T000166,2023-11-02,0.0,Credit Card,Retail,London,26-35,Completed,Social Media,Mobile,No,,Zero Value Transaction
+T000167,2023-11-02,210.99,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Yes,,Purchase
+T000168,2023-11-02,450.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Smartwatch,No,,Purchase
+T000169,2023-11-02,85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Purchase
+T000172,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000174,2023-11-02,250.5,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000175,2023-11-02,185.2,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000177,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,,Purchase
+T000178,2023-11-02,0.0,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,Loyalty Points Redeemed,,Failed Transaction
+T000179,2023-11-02,-85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Refund
+T000180,2023-11-02,295.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Tablet,Seasonal Offer,,Purchase
+T000182,2023-11-02,85.3,Mobile Payment,Food & Beverage,Manchester,18-25,Pending,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000183,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000185,2023-11-02,320.0,Bank Transfer,Services,Bristol,60+,Refunded,Subscription,Tablet,Loyalty Points Redeemed,,Purchase
+T000187,2023-11-02,0.0,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Yes,,Loyalty Redemption
+T000188,2023-11-02,450.75,Digital Wallet,Travel,Birmingham,46-60,Chargeback,Online,Smartwatch,No,,Purchase
+T000189,2023-11-02,85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Purchase
+T000191,2023-11-02,245.67,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000192,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,Yes,,Purchase
+T000194,2023-11-02,250.5,Mobile Payment,Food & Beverage,Manchester,18-25,Completed,Mobile App,Desktop,Seasonal Offer,,Purchase
+T000195,2023-11-02,185.2,Credit Card,Retail,London,26-35,Completed,Online,Mobile,No,,Purchase
+T000197,2023-11-02,500.25,Digital Wallet,Travel,Birmingham,36-45,Completed,Online,Mobile,No,,Purchase
+T000198,2023-11-02,0.0,Debit Card,Entertainment,Glasgow,46-60,Failed,In-Store,Smartwatch,Loyalty Points Redeemed,,Failed Transaction
+T000199,2023-11-02,-85.3,Debit Card,Entertainment,Glasgow,18-25,Completed,In-Store,Mobile,Yes,,Refund
+T000200,2023-11-02,295.6,Bank Transfer,Services,Bristol,60+,Pending,Subscription,Tablet,Seasonal Offer,,Purchase
