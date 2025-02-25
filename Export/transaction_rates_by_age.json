@@ -1,0 +1,37 @@
+{
+    "18-25": {
+      "Chargeback": 4.88,
+      "Completed": 56.10,
+      "Failed": 9.76,
+      "Pending": 17.07,
+      "Refunded": 12.20
+    },
+    "26-35": {
+      "Chargeback": null,
+      "Completed": 97.14,
+      "Failed": null,
+      "Pending": null,
+      "Refunded": 2.86
+    },
+    "36-45": {
+      "Chargeback": 2.94,
+      "Completed": 85.29,
+      "Failed": 5.88,
+      "Pending": 5.88,
+      "Refunded": null
+    },
+    "46-60": {
+      "Chargeback": 34.48,
+      "Completed": 24.14,
+      "Failed": 27.59,
+      "Pending": 13.79,
+      "Refunded": null
+    },
+    "60+": {
+      "Chargeback": 11.11,
+      "Completed": 11.11,
+      "Failed": 27.78,
+      "Pending": 44.44,
+      "Refunded": 5.56
+    }
+  }

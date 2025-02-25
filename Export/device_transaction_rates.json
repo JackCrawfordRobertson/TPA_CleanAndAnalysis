@@ -1,0 +1,30 @@
+{
+    "Desktop": {
+      "Chargeback": 5.56,
+      "Completed": 47.22,
+      "Failed": 16.67,
+      "Pending": 30.56,
+      "Refunded": null
+    },
+    "Mobile": {
+      "Chargeback": 2.38,
+      "Completed": 84.52,
+      "Failed": 2.38,
+      "Pending": 3.57,
+      "Refunded": 7.14
+    },
+    "Smartwatch": {
+      "Chargeback": 32.14,
+      "Completed": 21.43,
+      "Failed": 39.29,
+      "Pending": 7.14,
+      "Refunded": null
+    },
+    "Tablet": {
+      "Chargeback": 22.22,
+      "Completed": 11.11,
+      "Failed": null,
+      "Pending": 55.56,
+      "Refunded": 11.11
+    }
+  }

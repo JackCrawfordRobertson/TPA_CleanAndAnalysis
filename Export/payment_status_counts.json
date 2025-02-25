@@ -1,0 +1,44 @@
+{
+    "Bank Transfer": {
+      "Chargeback": 2.0,
+      "Completed": 2.0,
+      "Failed": 5.0,
+      "Pending": 8.0,
+      "Refunded": 1.0
+    },
+    "Credit Card": {
+      "Chargeback": null,
+      "Completed": 29.0,
+      "Failed": null,
+      "Pending": null,
+      "Refunded": 1.0
+    },
+    "Credit card": {
+      "Chargeback": null,
+      "Completed": 5.0,
+      "Failed": null,
+      "Pending": null,
+      "Refunded": null
+    },
+    "Debit Card": {
+      "Chargeback": 3.0,
+      "Completed": 4.0,
+      "Failed": 8.0,
+      "Pending": null,
+      "Refunded": null
+    },
+    "Digital Wallet": {
+      "Chargeback": 8.0,
+      "Completed": 39.0,
+      "Failed": 2.0,
+      "Pending": 4.0,
+      "Refunded": 5.0
+    },
+    "Mobile Payment": {
+      "Chargeback": 2.0,
+      "Completed": 16.0,
+      "Failed": 4.0,
+      "Pending": 9.0,
+      "Refunded": null
+    }
+  }

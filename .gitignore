@@ -19,9 +19,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Ignore Jupyter notebook output (optional)
-*.ipynb
-
 # Ignore logs and temp files
 *.log
 *.tmp
